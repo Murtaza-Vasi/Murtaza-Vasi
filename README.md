@@ -27,15 +27,6 @@
 
 ![](https://komarev.com/ghpvc/?username=Murtaza-Vasi)
 
-<!--
-**Murtaza-Vasi/Murtaza-Vasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🤔 I’m looking for help with ...
-- 😄 Pronouns: ...
-  -->
-
 [email]: (mailto:murtazavasi2000@gmail.com)
 [linkedin]: (www.linkedin.com/in/murtaza-vasi)
 [twitter]: (https://twitter.com/VasiMurtaza)
