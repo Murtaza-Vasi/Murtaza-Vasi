@@ -8,10 +8,10 @@
 <br />
 📫 How to reach me:
 
-- Email :- [Email]
-- LinkedIn :- [LinkedIn]
-- Instagram :- [Instagram]
-- Twitter :- [Twitter]
+- Email :- [Email](email)
+- LinkedIn :- [LinkedIn](linkedin)
+- Instagram :- [Instagram](instagram)
+- Twitter :- [Twitter](twitter)
 
 <br />
 
