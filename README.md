@@ -31,3 +31,9 @@
 [linkedin]: (www.linkedin.com/in/murtaza-vasi)
 [twitter]: (https://twitter.com/VasiMurtaza)
 [instagram]: (https://www.instagram.com/vasi_murtaza/)
+
+### Latest Blogs
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@murtazavasi.dev/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@murtazavasi.dev/0" alt="Recent Article 0">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@murtazavasi.dev/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@murtazavasi.dev/1" alt="Recent Article 1">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@murtazavasi.dev/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@murtazavasi.dev/2" alt="Recent Article 2">
