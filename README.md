@@ -8,10 +8,10 @@
 <br />
 📫 How to reach me:
 
-- Email :- [Email](email)
-- LinkedIn :- [LinkedIn](linkedin)
-- Instagram :- [Instagram](instagram)
-- Twitter :- [Twitter](twitter)
+- [Email](mailto:murtazavasi2000@gmail.com)
+- [LinkedIn](www.linkedin.com/in/murtaza-vasi)
+- [Twitter](https://twitter.com/VasiMurtaza)
+- [Instagram](https://www.instagram.com/vasi_murtaza/)
 
 <br />
 
@@ -26,11 +26,6 @@
 ### Profile Visits
 
 ![](https://komarev.com/ghpvc/?username=Murtaza-Vasi)
-
-[email]: (mailto:murtazavasi2000@gmail.com)
-[linkedin]: (www.linkedin.com/in/murtaza-vasi)
-[twitter]: (https://twitter.com/VasiMurtaza)
-[instagram]: (https://www.instagram.com/vasi_murtaza/)
 
 ### Latest Blogs
 
