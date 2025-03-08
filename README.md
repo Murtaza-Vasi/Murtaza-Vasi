@@ -9,8 +9,8 @@
 📫 How to reach me:
 
 - [Email](mailto:murtazavasi2000@gmail.com)
-- [LinkedIn](www.linkedin.com/in/murtaza-vasi)
-- [Twitter](https://twitter.com/VasiMurtaza)
+- [LinkedIn](https://www.linkedin.com/in/murtaza-vasi)
+- [Twitter](https://www.twitter.com/VasiMurtaza)
 - [Instagram](https://www.instagram.com/vasi_murtaza/)
 
 <br />
